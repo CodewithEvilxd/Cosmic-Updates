@@ -17,7 +17,7 @@ const Logo = ({ size }) => {
                 className="text-lg font-medium tracking-tight whitespace-nowrap overflow-hidden text-ellipsis"
                 style={{ minWidth: 0 }}
             >
-                Beyond Sky!!
+                Cosmic Updates!!
             </span>
         </div>
     );

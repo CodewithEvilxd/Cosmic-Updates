@@ -169,7 +169,7 @@ const Footer = () => {
                 </div>
 
                 <div className="mt-10 pt-6 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-white/50">
-                    <div>© 2025 Beyond Sky!!. All rights reserved.</div>
+                    <div>© 2025 Cosmic Updates!!. All rights reserved.</div>
                     <div className="flex gap-6">
                         <a 
                             href="https://www.nasa.gov/about/highlights/HP_Privacy.html" 
